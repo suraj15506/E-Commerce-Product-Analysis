@@ -10,24 +10,29 @@ This project aims to analyze Myntra's product dataset to derive key business ins
 
 ├── Analysis&Dashboard/
 |
+
 │ ├── Myntra_Competitor_Analysis.xlsx
 │ ├── readme.txt
 │
+
 ├── data/
 │ ├── Myntra_product_raw_data.csv
 │ ├── Myntra_cleaned_dataset.csv
 │ ├── readme.txt
 │
+
 ├── sql/
 │ ├── 01_sql_questions_only.sql
 │ ├── 02_sql_questions_with_answers.sql
 │ ├── readme.txt
 │
+
 ├── visual/
 │ ├── Visual_1.png
 │ ├── Visual_2.png
 │ ├── readme.txt
 │
+
 ├── README.md
 
 
