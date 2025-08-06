@@ -1,4 +1,4 @@
-# 🛍️ Myntra Product Analysis Project
+# 🛍️ E-Commerce Product Analysis Project
 
 ## 📊 Project Overview
 
